@@ -1,4 +1,4 @@
-### Hi there, I'm Uzair Asif <br />
+### Hi there, I'm Uzair Asif Software Engineer @ESS(Expert System Solution) <br />
 A passionate and eager to learn full stack developer skilled in designing, developing completely responsive websites, incorporating a range of technologies using HTML, CSS, SASS, Reactjs, Nextjs, Redux state management, ExpressJs, MongoDB, React Native and JavaScript. Built products for desktop and mobile app users, meeting highest standards for web design, user experience, best practices and speed. Designed and developed web applications across multiple APIs, third-party integrations and databases. I am a collaborative team player with excellent technical abilities.
 
 <!--
