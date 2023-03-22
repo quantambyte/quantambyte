@@ -1,7 +1,7 @@
 <p align="left"><img width=15%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" /></p>
 
 
-### I'm Uzair Asif Software Engineer @ESS(Expert System Solution) <br />
+### I'm Uzair Asif Software Engineer <br />
 Full stack developer skilled in designing, developing completely responsive websites, incorporating a range of technologies. Built products for desktop and mobile app users, meeting highest standards for web design, user experience, best practices and speed. Designed and developed web applications across multiple APIs, third-party integrations and databases. I am a collaborative team player with excellent technical abilities.
 
 <!--
