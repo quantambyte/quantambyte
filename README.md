@@ -2,7 +2,9 @@
 
 
 ### I'm Uzair Asif Software Engineer <br />
-Full stack developer skilled in designing, developing completely responsive websites, incorporating a range of technologies. Built products for desktop and mobile app users, meeting highest standards for web design, user experience, best practices and speed. Designed and developed web applications across multiple APIs, third-party integrations and databases. I am a collaborative team player with excellent technical abilities.
+As a full stack developer, I possess advanced skills in designing and developing fully responsive websites, utilizing a wide range of cutting-edge technologies. My expertise extends to building products for both desktop and mobile app users, consistently meeting and exceeding the highest standards for web design, user experience, best practices, and site speed.
+
+In addition, I have extensive experience designing and developing web applications that incorporate multiple APIs, third-party integrations, and databases. My collaborative nature, combined with my excellent technical abilities, make me an invaluable asset to any team.
 
 <!--
 **uzair-asif/uzair-asif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
