@@ -1,7 +1,7 @@
 <p align="left"><img width=15%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" /></p>
 
 
-### I'm Abdullah Sarfraz Software Engineer <br />
+### I'm Uzair Asif Software Engineer <br />
 As a skilled full stack developer, I pride myself on my ability to create fully responsive websites that incorporate a diverse range of cutting-edge technologies. Whether building products for desktop or mobile app users, I always strive to exceed the highest standards for web design, user experience, best practices, and site speed.
 
 My passion for web development is reflected in my ability to design and develop web applications that seamlessly integrate multiple APIs, third-party integrations, and databases. I approach every project as a collaborative team player, leveraging my excellent technical abilities to achieve the best possible results.
